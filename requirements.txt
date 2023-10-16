@@ -1,4 +1,0 @@
-pyautogen
-streamlit
-openai
-pydantic
